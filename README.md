@@ -38,7 +38,7 @@ Circuit and PCB design of a Battery Management System(BMS) STM32 Shield
   - Slightly oversized shield with double-layer design
 - "Modular" placement 
   - Different regions on the board clearly identifiable 
-- Share ground plates
+- Shared ground plates
 - Double-layer placement
   - Greatly reduces board area requirement
 

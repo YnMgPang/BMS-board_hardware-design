@@ -12,7 +12,7 @@ Circuit and PCB design of a Battery Management System(BMS) STM32 Shield
 
 # File Structure
 - Readme
-- Complete project package, Altium Designer(.rar)
+- Complete project package, Altium Designer
 
 # About This Project
 - A "piggyback" PCB board(shield) is developed to be mounted on a Nucleo F429ZI board.

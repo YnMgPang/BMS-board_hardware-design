@@ -1,5 +1,5 @@
 # BMS Board: Hardware Design
-Circuit and PCB design of a Battery Management System(BMS) STM32 Shield
+Circuit and PCB design of a Battery Management System(BMS) shield for the Nucleo F429ZI board
 
 <img src="https://user-images.githubusercontent.com/94412167/147296119-54904b56-30dc-4177-b94f-220ccb6bafe9.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/94412167/147296252-eb5ad155-0f2b-4168-9a8c-487e168005a0.png" width=30% height=30%> <img src="https://user-images.githubusercontent.com/94412167/147296205-c51b9fb6-99c5-42cd-b34c-9b28c3c602f9.png" width=30% height=30%>
 

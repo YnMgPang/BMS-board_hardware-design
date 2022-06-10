@@ -15,6 +15,7 @@ Circuit and PCB design of a Battery Management System(BMS) shield for the Nucleo
 - Complete project package, Altium Designer
 
 # About This Project
+- This project contributed to a research at the ISEA institute of RWTH Aachen University, Germany.
 - A "piggyback" PCB board(shield) is developed to be mounted on a Nucleo F429ZI board.
 - The shield + Nucleo setup serves as a BMS system, with the following functions:
   - Shield:    
